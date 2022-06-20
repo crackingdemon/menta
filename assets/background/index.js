@@ -1,0 +1,8 @@
+export { default as black } from "./black.jpeg"
+export { default as blue } from "./blue.png"
+export { default as green } from "./green.jpeg"
+export { default as red } from "./red.jpeg"
+export { default as doubt } from "./doubt.png"
+export { default as stats } from "./stats.png"
+export { default as seminars } from "./seminars.png"
+export { default as sir } from "./sir.png"
